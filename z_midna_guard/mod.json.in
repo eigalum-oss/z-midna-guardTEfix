@@ -1,0 +1,7 @@
+{
+  "id": "local.z_midna_guard",
+  "name": "Z Midna Guard",
+  "version": "@PROJECT_VERSION@",
+  "author": "Community patch",
+  "description": "Stops the Z button from calling Midna (fixes Twilit Essentials Boss Rush calling Midna on Z while a Z item slot is in use). Midna's own button is unaffected."
+}
